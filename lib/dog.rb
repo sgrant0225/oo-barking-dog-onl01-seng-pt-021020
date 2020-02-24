@@ -12,7 +12,7 @@ end
 fido = Dog.new 
 fido.name = "Fido"
 
-class Dog
+#class Dog
 
 def bark
  puts "woof!"
